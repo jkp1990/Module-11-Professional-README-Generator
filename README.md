@@ -34,6 +34,7 @@ node index
 ```
 
 ![Usage example](./screenshot.png)
+[Link to video](https://drive.google.com/file/d/1y28SoVazGK3wmbmmSDKh9ci-8XwHBL9l/view?usp=sharing)
 
 ## License
 
