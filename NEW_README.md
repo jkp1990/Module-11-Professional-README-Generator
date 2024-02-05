@@ -1,6 +1,6 @@
-# Enter your project name here
+# My Project
 
-
+[![License: ISC](https://img.shields.io/badge/License-ISC-blue.svg)](https://opensource.org/licenses/ISC)
 
 ## Table of contents
 
@@ -14,35 +14,35 @@
 
 ## Description
 
-Enter the description here
+A reall cool app
 
 ## Installation
 
-Enter the installation instructions here
+run "npm install"
 
 ## Usage
 
-Enter the usage instructions here
+run "node index"
 
 ## License
 
-This project is not covered by a license.
+This project is covered by the MIT license.
 
 ## Contributing
 
-Enter contribution info here
+clone the repository and make a new branch
 
 ## Tests
 
-Enter testing info here
+npm run test
 
 ## Questions
 
 ### Who is the original creator of this project?
 
-Enter your github username here
-[Link to profile](https://github.com/Enter your github username here)
+JKP1990
+[Link to profile](https://github.com/JKP1990)
 
 ### How can I contact them?
 
-Send an email to Enter your email address here
+Send an email to jessicapourawal@gmail.com
