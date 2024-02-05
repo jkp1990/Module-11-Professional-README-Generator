@@ -41,7 +41,7 @@ This project is covered by the MIT license.
 
 ## Contributing
 
-Clone the repo and create your own branch.a
+Clone the repo and create your own branch
 
 ## Questions
 
